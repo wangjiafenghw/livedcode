@@ -1,2 +1,2 @@
 # livedcode
-markdown扩展:代码段编辑掩饰
+markdown扩展:代码段编辑演示
